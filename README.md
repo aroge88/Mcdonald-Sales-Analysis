@@ -1,21 +1,15 @@
 # Mcdonald-Sales Report-Analysis
 # I. Executive Summary
 
-This report provides a comprehensive analysis of McDonald's sales, profit, and customer engagement metrics for the reporting period, benchmarked against our operational targets. It encompasses a detailed review of sales trends over the past two years, a breakdown of current year sales by country, and a thorough evaluation of customer satisfaction across various service dimensions.
-
+The report delineates McDonald's performance in terms of sales, profits, and customer volume against established targets. It includes an analysis of sales trends spanning the last two years, provides a detailed account of current year sales by country, and assesses customer satisfaction across several service facets.
 # II. Key Performance Indicators (KPIs)
+### Sales Performance
 
-## Sales Performance
-Actual Sales: 
-$2,544M — Capturing 85% of our ambitious $3,000M target, indicating a 15% opportunity area.
+Actual Sales: $2,544M, achieving 85% of the $3,000M goal.
 
-## Profit Analysis
-Actual Profit: 
-$890M — Attained 89% of the targeted $1,000M, highlighting an 11% shortfall.
+Profit: $890M, reaching 89% of the $1,000M target.
 
-
-Actual Count: 
-87 — We've reached 87% of our 100-customer target, with a growth gap of 13%.
+Customer Volume: 87 customers served, fulfilling 87% of the target of 100.
 
 # III. Sales Trends
 
