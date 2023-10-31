@@ -12,6 +12,8 @@ $2,544M — Capturing 85% of our ambitious $3,000M target, indicating a 15% oppo
 ## Profit Analysis
 Actual Profit: 
 $890M — Attained 89% of the targeted $1,000M, highlighting an 11% shortfall.
+
+
 Actual Count: 
 87 — We've reached 87% of our 100-customer target, with a growth gap of 13%.
 
