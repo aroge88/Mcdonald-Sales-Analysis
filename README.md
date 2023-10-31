@@ -5,10 +5,11 @@ This report provides a comprehensive analysis of McDonald's sales, profit, and c
 
 # II. Key Performance Indicators (KPIs)
 
-Sales Performance
+## Sales Performance
 Actual Sales: 
 $2,544M — Capturing 85% of our ambitious $3,000M target, indicating a 15% opportunity area.
-Profit Analysis
+
+# Profit Analysis
 Actual Profit: 
 $890M — Attained 89% of the targeted $1,000M, highlighting an 11% shortfall.
 Actual Count: 
