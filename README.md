@@ -6,14 +6,20 @@ This report provides a comprehensive analysis of McDonald's sales, profit, and c
 # II. Key Performance Indicators (KPIs)
 
 Sales Performance
-Actual Sales: $2,544M — Capturing 85% of our ambitious $3,000M target, indicating a 15% opportunity area.
-Analysis: A detailed assessment of monthly sales trajectories suggests potential for promotional drives to bridge the target gap.
+# Actual Sales: 
+$2,544M — Capturing 85% of our ambitious $3,000M target, indicating a 15% opportunity area.
+# Analysis: 
+A detailed assessment of monthly sales trajectories suggests potential for promotional drives to bridge the target gap.
 Profit Analysis
-Actual Profit: $890M — Attained 89% of the targeted $1,000M, highlighting an 11% shortfall.
-Analysis: The correlation between sales performance and profit margins suggests prioritizing cost-efficiency alongside sales optimization.
+# Actual Profit: 
+$890M — Attained 89% of the targeted $1,000M, highlighting an 11% shortfall.
+# Analysis: 
+The correlation between sales performance and profit margins suggests prioritizing cost-efficiency alongside sales optimization.
 Customer Growth
-Actual Count: 87 — We've reached 87% of our 100-customer target, with a growth gap of 13%.
-Analysis: Strategic marketing and customer loyalty programs could be key to realizing full customer growth potential.
+# Actual Count: 
+87 — We've reached 87% of our 100-customer target, with a growth gap of 13%.
+# Analysis: 
+Strategic marketing and customer loyalty programs could be key to realizing full customer growth potential.
 
 # III. Sales Trends
 
